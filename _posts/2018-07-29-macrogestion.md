@@ -1,7 +1,9 @@
+---
+layout: post
+title: La macro gestion au poker !
+---
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA5NjE3NTRdfQ==
+eyJoaXN0b3J5IjpbMTMzMDE1ODk5OCwtMTIxMDk2MTc1NF19
 -->
