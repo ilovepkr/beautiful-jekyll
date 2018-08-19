@@ -11,8 +11,8 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 
 ## La gestion de bankroll
 
-100 bi en CG, 150 bi en SnG, 200 bi en MTT
+100 bi en CG (50 bi en CG live), 150 bi en SnG, 200 bi en MTT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NTMxMTEzLC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
