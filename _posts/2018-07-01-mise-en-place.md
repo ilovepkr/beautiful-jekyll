@@ -13,6 +13,11 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 
 100 bi en CG (50 bi en CG live), 150 bi en SnG, 200 bi en MTT
 
+## Le volume de jeu
+
+Il faut multitabler pour faire le plus de volume possible.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbLTg2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOT
+IwNTg4MTBdfQ==
 -->
