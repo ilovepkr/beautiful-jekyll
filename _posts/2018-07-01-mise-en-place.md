@@ -9,8 +9,10 @@ La macro gestion au poker, c'est la façon de gérer, son capital (bankroll), so
 
 Il faut être bon en macro gestion et être bon techniquement pour devenir gagnant au poker sur le long terme.
 
-La gestion de bankrol
+## La gestion de bankroll
+
+100 bi en CG, 150 bi en SnG, 200 bi en MTT
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxNDg3NTU3LC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbNzY5NTMxMTEzLC0yOTIwNTg4MTBdfQ==
 -->
