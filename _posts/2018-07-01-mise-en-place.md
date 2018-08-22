@@ -16,10 +16,13 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 ---
 
 ## La gestion de bankroll
-100 bi en CG (50 bi en CG live), 150 bi en SnG, 200 bi en MTT
-||Bankroll|
+
+|Type de jeu|Bankroll|
 |-|-|
-|Cash Game Online||
+|Cash Game Online|100 BI|
+|Cash Game Live|50 BI|
+|MTT Online|200 BI|
+|SnG|150 BI|
 
 
 ## Le volume de jeu
@@ -31,7 +34,7 @@ Il faut multitabler pour faire le plus de volume possible.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzcyNzQ2Miw3MTA4MDg1MzgsLTEzND
-g5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC01MjY5Njg4
-NjcsLTI5MjA1ODgxMF19
+eyJoaXN0b3J5IjpbMjk3MzUyOTA0LDcxMDgwODUzOCwtMTM0OD
+kzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0NjMsLTUyNjk2ODg2
+NywtMjkyMDU4ODEwXX0=
 -->
