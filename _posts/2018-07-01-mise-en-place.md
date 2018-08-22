@@ -60,6 +60,10 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 
 &nbsp;
+## Les bases mathématiques
+
+
+&nbsp;
 ## Les ranges preflop
 
 
@@ -67,9 +71,9 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 ## Les dynamiques preflop
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgzNjA2MDQsMjg1Mjc3ODgsLTcyNT
-c0NjE2MiwtMTMzMzM3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2
-MTc0LC0xOTgzNTY4NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNz
-EwODA4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUy
-MzQ2MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbODk3NzMxNzc2LDI4NTI3Nzg4LC03MjU3ND
+YxNjIsLTEzMzMzNzUzMDUsLTE3NDY3NjAxMSwtMjA4NjYwNjE3
+NCwtMTk4MzU2ODYyNCwzNTg4MjM4MDAsMjk3MzUyOTA0LDcxMD
+gwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0
+NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
