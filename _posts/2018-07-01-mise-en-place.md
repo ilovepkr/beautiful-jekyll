@@ -31,6 +31,10 @@ L'argent est un levier important, plus on va pouvoir commencer avec une bankroll
 
 
 Il faut multitabler pour faire le plus de volume possible.
+Pour ce faire, il faut au minimum 2 écrans.
+Une bonne moyenne serait de jouer 12 tables en même temps.
+
+C'est grâce au volume que l'on va atteindre le long terme.
 
 
 # La technique
@@ -38,7 +42,7 @@ Il faut multitabler pour faire le plus de volume possible.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjQ3NzI1NSwyOTczNTI5MDQsNzEwOD
+eyJoaXN0b3J5IjpbMTI0OTQxNjgxNiwyOTczNTI5MDQsNzEwOD
 A4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2
 MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
