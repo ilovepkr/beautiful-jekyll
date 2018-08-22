@@ -48,6 +48,12 @@ Il faut organiser son emploi du temps et jouer le plus possible le week end quan
 
 
 
+## Hygiène de vie
+
+
+Une bonne hygiène de vie facilite le grand et la réflexion.
+
+
 # La technique
 ---
 
@@ -55,7 +61,7 @@ Il faut se former techniquement a ce jeu.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzcyMDgzMTYsMzU4ODIzODAwLDI5Nz
-M1MjkwNCw3MTA4MDg1MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1
-MSwtODY1NTIzNDYzLC01MjY5Njg4NjcsLTI5MjA1ODgxMF19
+eyJoaXN0b3J5IjpbMTk3Mjc1MTkyNCwzNTg4MjM4MDAsMjk3Mz
+UyOTA0LDcxMDgwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUx
+LC04NjU1MjM0NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
