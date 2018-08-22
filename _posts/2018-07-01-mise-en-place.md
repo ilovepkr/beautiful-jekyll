@@ -17,6 +17,7 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 
 ## La gestion de bankroll
 
+
 |Type de jeu|Bankroll|
 |-|-|
 |Cash Game Online|100 BI|
@@ -27,6 +28,8 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 L'argent est un levier important, plus on va pouvoir commencer avec une bankroll importante plus on pourra arriver loin.
 
 ## Le volume de jeu
+
+
 Il faut multitabler pour faire le plus de volume possible.
 
 
@@ -35,7 +38,7 @@ Il faut multitabler pour faire le plus de volume possible.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyNzczMTUsMjk3MzUyOTA0LDcxMD
-gwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0
-NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbMTI0NjQ3NzI1NSwyOTczNTI5MDQsNzEwOD
+A4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2
+MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
