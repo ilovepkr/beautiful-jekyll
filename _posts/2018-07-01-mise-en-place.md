@@ -10,6 +10,7 @@ La macro gestion au poker, c'est la façon de gérer, son capital (bankroll), so
 Il faut être bon en macro gestion et être bon techniquement pour devenir gagnant au poker sur le long terme.
 
 
+&nbsp;
 # I. La macro gestion
 ---
 
@@ -63,7 +64,7 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzQ0MDM2MCwtMTMzMzM3NTMwNSwtMT
+eyJoaXN0b3J5IjpbLTcyNTc0NjE2MiwtMTMzMzM3NTMwNSwtMT
 c0Njc2MDExLC0yMDg2NjA2MTc0LC0xOTgzNTY4NjI0LDM1ODgy
 MzgwMCwyOTczNTI5MDQsNzEwODA4NTM4LC0xMzQ4OTM1NTYyLD
 E4MTEyMDk2NTEsLTg2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOTIw
