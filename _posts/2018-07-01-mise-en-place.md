@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Mettre en place son Poker !
@@ -62,7 +60,7 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTI2ODk5OCwzNTg4MjM4MDAsMjk3Mz
+eyJoaXN0b3J5IjpbMTA2NjAxMjUxNCwzNTg4MjM4MDAsMjk3Mz
 UyOTA0LDcxMDgwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUx
 LC04NjU1MjM0NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
