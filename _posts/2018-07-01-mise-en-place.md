@@ -46,12 +46,18 @@ C'est grâce au volume que l'on va atteindre le long terme.
 
 Il faut organiser son emploi du temps et jouer le plus possible le week end quand il y a le plus de joueurs amateurs.
 
+## Se former
+
+
+
+
+
 # La technique
 ---
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM0Mzc3MywyOTczNTI5MDQsNzEwOD
-A4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2
-MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMzU4ODIzODAwLDI5NzM1MjkwNCw3MTA4MD
+g1MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYz
+LC01MjY5Njg4NjcsLTI5MjA1ODgxMF19
 -->
