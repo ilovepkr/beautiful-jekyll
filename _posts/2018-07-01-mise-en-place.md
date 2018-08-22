@@ -24,6 +24,7 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 |MTT Online|200 BI|
 |SnG|150 BI|
 
+L'argent est un levier important, plus on va pouvoir commencer avec une bankroll importante plus on pourra arriver loin.
 
 ## Le volume de jeu
 Il faut multitabler pour faire le plus de volume possible.
@@ -34,7 +35,7 @@ Il faut multitabler pour faire le plus de volume possible.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MzUyOTA0LDcxMDgwODUzOCwtMTM0OD
-kzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0NjMsLTUyNjk2ODg2
-NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE5NDgyNzczMTUsMjk3MzUyOTA0LDcxMD
+gwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0
+NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
