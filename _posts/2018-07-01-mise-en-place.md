@@ -36,12 +36,10 @@ Une bonne moyenne serait de jouer 12 tables en même temps.
 
 C'est grâce au volume que l'on va atteindre le long terme.
 
-|Type de jeu|Bankroll|
-|-|-|
-|Cash Game Online|100 BI|
-|Cash Game Live|50 BI|
-|MTT Online|200 BI|
-|SnG|150 BI|
+|Type de jeu|Objectifs|Volume|
+|-|-|-|
+|Cash Game Online|Arrondir fin mois|15 000 mains|
+|Cash Game Online|Pro|50 000 mains|
 
 
 # La technique
@@ -49,7 +47,7 @@ C'est grâce au volume que l'on va atteindre le long terme.
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEwMTk5OTEsMjk3MzUyOTA0LDcxMD
+eyJoaXN0b3J5IjpbLTExMTgzNDY1MDUsMjk3MzUyOTA0LDcxMD
 gwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0
 NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
