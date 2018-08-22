@@ -12,6 +12,8 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 
 # La macro gestion
 ---
+
+
 ## La gestion de bankroll
 
 |Type de jeu|Bankroll|
@@ -22,6 +24,7 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 |SnG|150 BI|
 
 L'argent est un levier important, plus on va pouvoir commencer avec une bankroll importante plus on pourra arriver loin.
+
 
 ## Le volume de jeu
 
@@ -36,23 +39,29 @@ C'est grâce au volume que l'on va atteindre le long terme.
 |Cash Game Online|Arrondir fin mois|15 000 mains|
 |Cash Game Online|Pro|50 000 mains|
 
+
 ## Organisation
 
 Il faut organiser son emploi du temps et jouer le plus possible le week end quand il y a le plus de joueurs amateurs.
+
 
 ## Hygiène de vie
 
 Une bonne hygiène de vie facilite le grand et la réflexion.
 
+
 # La technique
 ---
+
 Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
+
 
 ## Les ranges preflop
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTU2MzcyOCwtMjA4NjYwNjE3NCwtMT
-k4MzU2ODYyNCwzNTg4MjM4MDAsMjk3MzUyOTA0LDcxMDgwODUz
-OCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0NjMsLT
-UyNjk2ODg2NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbLTEyNzg4NzA0NjYsLTIwODY2MDYxNzQsLT
+E5ODM1Njg2MjQsMzU4ODIzODAwLDI5NzM1MjkwNCw3MTA4MDg1
+MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC
+01MjY5Njg4NjcsLTI5MjA1ODgxMF19
 -->
