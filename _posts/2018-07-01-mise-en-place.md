@@ -64,10 +64,13 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 ## Les ranges preflop
 
 
+&nbsp;
+## Les dynamiques preflop
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjI3MDYzMiwtNzI1NzQ2MTYyLC0xMz
-MzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYxNzQsLTE5ODM1
-Njg2MjQsMzU4ODIzODAwLDI5NzM1MjkwNCw3MTA4MDg1MzgsLT
-EzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC01MjY5
-Njg4NjcsLTI5MjA1ODgxMF19
+eyJoaXN0b3J5IjpbMjg1Mjc3ODgsLTcyNTc0NjE2MiwtMTMzMz
+M3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2MTc0LC0xOTgzNTY4
+NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNzEwODA4NTM4LC0xMz
+Q4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2MywtNTI2OTY4
+ODY3LC0yOTIwNTg4MTBdfQ==
 -->
