@@ -19,12 +19,13 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 ## Le volume de jeu
 Il faut multitabler pour faire le plus de volume possible.
 
+
 # La technique
 ---
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMzU4MjAsLTEzNDg5MzU1NjIsMTgxMT
-IwOTY1MSwtODY1NTIzNDYzLC01MjY5Njg4NjcsLTI5MjA1ODgx
-MF19
+eyJoaXN0b3J5IjpbNzEwODA4NTM4LC0xMzQ4OTM1NTYyLDE4MT
+EyMDk2NTEsLTg2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOTIwNTg4
+MTBdfQ==
 -->
