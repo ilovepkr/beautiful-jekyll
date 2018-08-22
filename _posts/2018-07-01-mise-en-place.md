@@ -13,6 +13,7 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 # La macro gestion
 ---
 ## La gestion de bankroll
+
 |Type de jeu|Bankroll|
 |-|-|
 |Cash Game Online|100 BI|
@@ -47,7 +48,8 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 ## Les ranges preflop
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1Njg2MjQsMzU4ODIzODAwLDI5Nz
-M1MjkwNCw3MTA4MDg1MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1
-MSwtODY1NTIzNDYzLC01MjY5Njg4NjcsLTI5MjA1ODgxMF19
+eyJoaXN0b3J5IjpbLTIwODY2MDYxNzQsLTE5ODM1Njg2MjQsMz
+U4ODIzODAwLDI5NzM1MjkwNCw3MTA4MDg1MzgsLTEzNDg5MzU1
+NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC01MjY5Njg4NjcsLT
+I5MjA1ODgxMF19
 -->
