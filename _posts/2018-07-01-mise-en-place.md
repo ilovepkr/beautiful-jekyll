@@ -47,7 +47,7 @@ Il faut organiser son emploi du temps et jouer le plus possible le week end quan
 
 ## Hygiène de vie
 
-Une bonne hygiène de vie facilite le grand et la réflexion.
+Une bonne hygiène de vie facilite le grind et la réflexion. 
 
 
 # La technique
@@ -60,7 +60,7 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg4NzA0NjYsLTIwODY2MDYxNzQsLT
+eyJoaXN0b3J5IjpbLTEwMDgxMDU1MzgsLTIwODY2MDYxNzQsLT
 E5ODM1Njg2MjQsMzU4ODIzODAwLDI5NzM1MjkwNCw3MTA4MDg1
 MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC
 01MjY5Njg4NjcsLTI5MjA1ODgxMF19
