@@ -41,13 +41,17 @@ C'est grâce au volume que l'on va atteindre le long terme.
 |Cash Game Online|Arrondir fin mois|15 000 mains|
 |Cash Game Online|Pro|50 000 mains|
 
+## Organisation
+
+
+Il faut organiser son emploi du temps et jouer le plus possible le week end quand il y a le plus de joueurs amateurs.
 
 # La technique
 ---
 
 ## Les ranges preflop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgzNDY1MDUsMjk3MzUyOTA0LDcxMD
-gwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0
-NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbLTQzMDM0Mzc3MywyOTczNTI5MDQsNzEwOD
+A4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2
+MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
