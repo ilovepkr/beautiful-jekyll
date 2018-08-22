@@ -18,6 +18,6 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 Il faut multitabler pour faire le plus de volume possible.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOT
-IwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTgxMTIwOTY1MSwtODY1NTIzNDYzLC01Mj
+Y5Njg4NjcsLTI5MjA1ODgxMF19
 -->
