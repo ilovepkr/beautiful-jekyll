@@ -47,7 +47,7 @@ Il faut organiser son emploi du temps et jouer le plus possible le week end quan
 
 ## Hygiène de vie
 
-Une bonne hygiène de vie facilite le grind et la réflexion. 
+Une bonne hygiène de vie facilite le grind et la réflexion. Les facteurs importants sont le sport, l'alimentation et le sommeil.
 
 
 # La technique
@@ -60,8 +60,8 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgxMDU1MzgsLTIwODY2MDYxNzQsLT
-E5ODM1Njg2MjQsMzU4ODIzODAwLDI5NzM1MjkwNCw3MTA4MDg1
-MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIzNDYzLC
-01MjY5Njg4NjcsLTI5MjA1ODgxMF19
+eyJoaXN0b3J5IjpbLTE3NDY3NjAxMSwtMjA4NjYwNjE3NCwtMT
+k4MzU2ODYyNCwzNTg4MjM4MDAsMjk3MzUyOTA0LDcxMDgwODUz
+OCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC04NjU1MjM0NjMsLT
+UyNjk2ODg2NywtMjkyMDU4ODEwXX0=
 -->
