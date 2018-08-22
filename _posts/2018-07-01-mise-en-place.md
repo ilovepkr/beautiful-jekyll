@@ -17,7 +17,8 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 
 &nbsp;
 ## La gestion de bankroll
-&nbsp;
+
+L'argent est un levier important, plus on va pouvoir commencer avec une bankroll importante plus on pourra arriver loin.
 
 |Type de jeu|Bankroll|
 |-|-|
@@ -25,8 +26,6 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 |Cash Game Live|50 BI|
 |MTT Online|200 BI|
 |SnG|150 BI|
-
-L'argent est un levier important, plus on va pouvoir commencer avec une bankroll importante plus on pourra arriver loin.
 
 
 ## Le volume de jeu
@@ -68,9 +67,9 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 ## Les dynamiques preflop
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1Mjc3ODgsLTcyNTc0NjE2MiwtMTMzMz
-M3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2MTc0LC0xOTgzNTY4
-NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNzEwODA4NTM4LC0xMz
-Q4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2MywtNTI2OTY4
-ODY3LC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTEyMDgzNjA2MDQsMjg1Mjc3ODgsLTcyNT
+c0NjE2MiwtMTMzMzM3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2
+MTc0LC0xOTgzNTY4NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNz
+EwODA4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUy
+MzQ2MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
