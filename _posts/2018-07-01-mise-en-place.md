@@ -13,6 +13,7 @@ Il faut être bon en macro gestion et être bon techniquement pour devenir gagna
 # La macro gestion
 ---
 
+
 &nbsp;
 ## La gestion de bankroll
 
@@ -60,8 +61,8 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ3MDM0MzEsLTE3NDY3NjAxMSwtMj
-A4NjYwNjE3NCwtMTk4MzU2ODYyNCwzNTg4MjM4MDAsMjk3MzUy
-OTA0LDcxMDgwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5NjUxLC
-04NjU1MjM0NjMsLTUyNjk2ODg2NywtMjkyMDU4ODEwXX0=
+eyJoaXN0b3J5IjpbLTMzMjg3MDU4MSwtMTc0Njc2MDExLC0yMD
+g2NjA2MTc0LC0xOTgzNTY4NjI0LDM1ODgyMzgwMCwyOTczNTI5
+MDQsNzEwODA4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLT
+g2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
