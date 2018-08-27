@@ -66,6 +66,7 @@ La cote du pot ou la formule du risk / reward
 C'est le ratio entre la taille du pot et le coût d'un potentiel CALL.
 Si à la River un jouer BET 30€ dans un pot de 50€, le joueur qui va CALL risquera 30€ pour gagner 80€ et il aura donc une cote de 8:3. Il devra alors gagner au moins 27,3% du temps  pour que son CALL soit profitable.
 
+
 $$C_{pot} = \dfrac{Risque}{Risque + Récompense} = \dfrac{Call}{Call + Pot}$$
 
 Quand le joueur est en bluff, il mise pour essayer de prendre le pot, donc si a la River, le joueur mise 30€ pour prendre un pot de 50€, il aura une cote de 5:3, et pour être profitable son bluff doit passer 37,5% du temps.
@@ -92,10 +93,10 @@ Nous callons en position et le flop vient : K73r
 98s a 22 cartes pour s'améliorer à la turn et permettre de call aussi turn ce que ne possède pas 66.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcwMDEyODEsNzgyMjY0MzA3LDc4Mj
-I2NDMwNyw4OTc3MzE3NzYsMjg1Mjc3ODgsLTcyNTc0NjE2Miwt
-MTMzMzM3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2MTc0LC0xOT
-gzNTY4NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNzEwODA4NTM4
-LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2MywtNT
-I2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTY4ODk2NDcsLTE0NzcwMDEyODEsNz
+gyMjY0MzA3LDc4MjI2NDMwNyw4OTc3MzE3NzYsMjg1Mjc3ODgs
+LTcyNTc0NjE2MiwtMTMzMzM3NTMwNSwtMTc0Njc2MDExLC0yMD
+g2NjA2MTc0LC0xOTgzNTY4NjI0LDM1ODgyMzgwMCwyOTczNTI5
+MDQsNzEwODA4NTM4LC0xMzQ4OTM1NTYyLDE4MTEyMDk2NTEsLT
+g2NTUyMzQ2MywtNTI2OTY4ODY3LC0yOTIwNTg4MTBdfQ==
 -->
