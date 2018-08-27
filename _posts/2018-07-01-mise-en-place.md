@@ -74,7 +74,7 @@ $E = \dfrac{Risque}{Risque + Récompense} = \dfrac{Bet}{Bet + Pot}$
 
 
 &nbsp;
-## L'EQUITE
+## L'équité
 
 L'équité représente la chance de gagner d'une main face à la main ou la range d'un adversaire. Par contre, ce n'est pas parce qu’une main à plus d'équité qu'une autre, que c'est une meilleure main et qu'elle est plus profitable à jouer.
 
@@ -92,11 +92,11 @@ Nous callons en position et le flop vient : K73r
 98s a 22 cartes pour s'améliorer à la turn et permettre de call aussi turn ce que ne possède pas 66.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMjY0MzA3LC0xMzU2ODg5NjQ3LC0xND
-c3MDAxMjgxLDc4MjI2NDMwNyw3ODIyNjQzMDcsODk3NzMxNzc2
-LDI4NTI3Nzg4LC03MjU3NDYxNjIsLTEzMzMzNzUzMDUsLTE3ND
-Y3NjAxMSwtMjA4NjYwNjE3NCwtMTk4MzU2ODYyNCwzNTg4MjM4
-MDAsMjk3MzUyOTA0LDcxMDgwODUzOCwtMTM0ODkzNTU2MiwxOD
-ExMjA5NjUxLC04NjU1MjM0NjMsLTUyNjk2ODg2NywtMjkyMDU4
-ODEwXX0=
+eyJoaXN0b3J5IjpbMTg3NTY0MTk3MSw3ODIyNjQzMDcsLTEzNT
+Y4ODk2NDcsLTE0NzcwMDEyODEsNzgyMjY0MzA3LDc4MjI2NDMw
+Nyw4OTc3MzE3NzYsMjg1Mjc3ODgsLTcyNTc0NjE2MiwtMTMzMz
+M3NTMwNSwtMTc0Njc2MDExLC0yMDg2NjA2MTc0LC0xOTgzNTY4
+NjI0LDM1ODgyMzgwMCwyOTczNTI5MDQsNzEwODA4NTM4LC0xMz
+Q4OTM1NTYyLDE4MTEyMDk2NTEsLTg2NTUyMzQ2MywtNTI2OTY4
+ODY3XX0=
 -->
