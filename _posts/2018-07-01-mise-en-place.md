@@ -73,12 +73,14 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 - Le Jeu postflop : les situations de bluff et de value thin
 - Jeu postflop : En position et Hors de position quand check ou bet
 - Exploitation des adversaires
+- Identification des ranges capées
 - Identification des spots à Overbet
+- Utilisation des bloqueurs
 - Système de note pour améliorer nos profiling
 - Analyse du tracker, corrélation des statistiques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzQzNzM3NSwxODc1NjQxOTcxLDc4Mj
+eyJoaXN0b3J5IjpbMTMwMTYxODc5MywxODc1NjQxOTcxLDc4Mj
 I2NDMwNywtMTM1Njg4OTY0NywtMTQ3NzAwMTI4MSw3ODIyNjQz
 MDcsNzgyMjY0MzA3LDg5NzczMTc3NiwyODUyNzc4OCwtNzI1Nz
 Q2MTYyLC0xMzMzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYx
