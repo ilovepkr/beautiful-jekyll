@@ -58,11 +58,14 @@ Une bonne hygiène de vie facilite le grind et la réflexion. Les facteurs impor
 
 Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 
- - es fondamentaux
+ - Les fondamentaux
+	 - les bases mathematiques
+	 - la jouabilité des mains
+
  - Définition des ranges
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTYwMzQwOSwxODc1NjQxOTcxLDc4Mj
+eyJoaXN0b3J5IjpbMTE4NzY2Mzk1NCwxODc1NjQxOTcxLDc4Mj
 I2NDMwNywtMTM1Njg4OTY0NywtMTQ3NzAwMTI4MSw3ODIyNjQz
 MDcsNzgyMjY0MzA3LDg5NzczMTc3NiwyODUyNzc4OCwtNzI1Nz
 Q2MTYyLC0xMzMzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYx
