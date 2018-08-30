@@ -63,9 +63,15 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 	 - la jouabilité des mains
 
  - Définition des ranges
+	 - Range d’open raise preflop
+	 - Range de cold call preflop
+	 - Range de 3bet/4bet et de squeeze preflop
+	 - Jeu en Blinde vs Blinde
+	 - Le jeu vs les 3bet et 4bet
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzY2Mzk1NCwxODc1NjQxOTcxLDc4Mj
+eyJoaXN0b3J5IjpbLTQyMTU3MDMwMSwxODc1NjQxOTcxLDc4Mj
 I2NDMwNywtMTM1Njg4OTY0NywtMTQ3NzAwMTI4MSw3ODIyNjQz
 MDcsNzgyMjY0MzA3LDg5NzczMTc3NiwyODUyNzc4OCwtNzI1Nz
 Q2MTYyLC0xMzMzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYx
