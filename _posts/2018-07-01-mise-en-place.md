@@ -69,9 +69,11 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 	 - Jeu en Blinde vs Blinde
 	 - Le jeu vs les 3bet et 4bet
 
+- Le Jeu postflop : les situations de bluff et de value thin
+- Système de note pour améliorer nos profiling
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTU3MDMwMSwxODc1NjQxOTcxLDc4Mj
+eyJoaXN0b3J5IjpbMTYyNDUxNDQxNCwxODc1NjQxOTcxLDc4Mj
 I2NDMwNywtMTM1Njg4OTY0NywtMTQ3NzAwMTI4MSw3ODIyNjQz
 MDcsNzgyMjY0MzA3LDg5NzczMTc3NiwyODUyNzc4OCwtNzI1Nz
 Q2MTYyLC0xMzMzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYx
