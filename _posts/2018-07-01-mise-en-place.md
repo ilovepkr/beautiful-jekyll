@@ -25,7 +25,7 @@ L'argent est un levier important, plus on va pouvoir commencer avec une bankroll
 |Cash Game Online|100 BI|
 |Cash Game Live|50 BI|
 |MTT Online|200 BI|
-|SnG|150 BI|
+|SnG|150 à 300 BI|
 
 
 ## Le volume de jeu
@@ -80,7 +80,7 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 - Analyse du tracker, corrélation des statistiques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjgzNTI1NCwxMzAxNjE4NzkzLDE4Nz
+eyJoaXN0b3J5IjpbMTk5Njc2MDY2OSwxMzAxNjE4NzkzLDE4Nz
 U2NDE5NzEsNzgyMjY0MzA3LC0xMzU2ODg5NjQ3LC0xNDc3MDAx
 MjgxLDc4MjI2NDMwNyw3ODIyNjQzMDcsODk3NzMxNzc2LDI4NT
 I3Nzg4LC03MjU3NDYxNjIsLTEzMzMzNzUzMDUsLTE3NDY3NjAx
