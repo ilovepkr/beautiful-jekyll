@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mettre en place son Poker !
+title: Comment mettre en place son Poker !
 image: /img/organisation.png
 ---
 Il y a deux parties à travailler au poker. Une première partie que l'on va appeler la « macro gestion » et  une deuxième partie que l’on nomme souvent la « technique ».
@@ -80,11 +80,11 @@ Il faut se former techniquement a ce jeu et travailler son jeu régulièrement.
 - Analyse du tracker, corrélation des statistiques
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTYxODc5MywxODc1NjQxOTcxLDc4Mj
-I2NDMwNywtMTM1Njg4OTY0NywtMTQ3NzAwMTI4MSw3ODIyNjQz
-MDcsNzgyMjY0MzA3LDg5NzczMTc3NiwyODUyNzc4OCwtNzI1Nz
-Q2MTYyLC0xMzMzMzc1MzA1LC0xNzQ2NzYwMTEsLTIwODY2MDYx
-NzQsLTE5ODM1Njg2MjQsMzU4ODIzODAwLDI5NzM1MjkwNCw3MT
-A4MDg1MzgsLTEzNDg5MzU1NjIsMTgxMTIwOTY1MSwtODY1NTIz
-NDYzXX0=
+eyJoaXN0b3J5IjpbLTkxNjgzNTI1NCwxMzAxNjE4NzkzLDE4Nz
+U2NDE5NzEsNzgyMjY0MzA3LC0xMzU2ODg5NjQ3LC0xNDc3MDAx
+MjgxLDc4MjI2NDMwNyw3ODIyNjQzMDcsODk3NzMxNzc2LDI4NT
+I3Nzg4LC03MjU3NDYxNjIsLTEzMzMzNzUzMDUsLTE3NDY3NjAx
+MSwtMjA4NjYwNjE3NCwtMTk4MzU2ODYyNCwzNTg4MjM4MDAsMj
+k3MzUyOTA0LDcxMDgwODUzOCwtMTM0ODkzNTU2MiwxODExMjA5
+NjUxXX0=
 -->
