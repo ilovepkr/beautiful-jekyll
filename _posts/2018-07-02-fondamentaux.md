@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les fondamentaux
-image: /img/organisation.png
+image: /img/technique.png
 ---
 
 ## Les bases mathématiques
@@ -35,5 +35,5 @@ Nous callons en position et le flop vient : K73r
 66 et 98s ont la même équité ici cependant float le flop avec 98s est un meilleur move ici que de call avec 66.
 98s a 22 cartes pour s'améliorer à la turn et permettre de call aussi turn ce que ne possède pas 66.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODc0Nzc3NF19
+eyJoaXN0b3J5IjpbLTEwMTUxMTkxNTgsMTE0ODc0Nzc3NF19
 -->
