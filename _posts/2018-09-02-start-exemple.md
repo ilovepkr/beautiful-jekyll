@@ -7,7 +7,7 @@ title: Exemple de mise en place
 
 ```mermaid
 graph TB
-A((Debut)) --> Call
+A((Debut)) --> Macro[Macro-gestion] --> Technique
 subgraph Ranges
 Open
 Call
@@ -17,5 +17,6 @@ end
 
 ![](../img/parcours.svg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMjk2NjU0Njc3LC0yMDk4NDA0Mjg3LC01Nz
+Y2NDMyMDFdfQ==
 -->
