@@ -19,12 +19,14 @@ Challenge 500€|500 €
 
 # La technique
 
+On peut représenter notre progression avec un diagramme. Chaque nouvelle étapes 
+
 ![](../img/parcours.svg)
 
 #### Comprendre les dynamiques Préflop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDM4Njk4MiwtMjA3ODk2NjMwMCw4Nj
+eyJoaXN0b3J5IjpbLTIzNjY4Njc2NSwtMjA3ODk2NjMwMCw4Nj
 Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
 -->
