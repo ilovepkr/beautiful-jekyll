@@ -40,9 +40,11 @@ Pour bien comprendre les dynamiques, il faut bien comprendre pourquoi on décide
 Quand un joueur ouvre une main c'est pour gagner de l'argent sur le long terme. Soit en volant les blindes, soit en étant payé par des mains moins bonne que la sienne.
 
 Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du temps les autres joueurs fold.
+
+$\dfrac{3}{3 + 1,5} = 66,7$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NTc2MDYxLDkwNzAyMjExMiwxMjA5Nz
-c4OTY3LDEyMDk3Nzg5NjcsLTE2ODIzMzE1NjUsMTE2NDE2NjI2
-OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLT
-U3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMTcwNTUyNTYyNiw5MDcwMjIxMTIsMTIwOT
+c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
+NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
+01NzY2NDMyMDFdfQ==
 -->
