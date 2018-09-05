@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /img/inprogress.png
+image: /img/inprogress.jpg
 title: Exemple de mise en place
 
 ---
@@ -17,5 +17,5 @@ end
 
 ![](../img/parcours.svg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NTAyNDU3LC01NzY2NDMyMDFdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
 -->
