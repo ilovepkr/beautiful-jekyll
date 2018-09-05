@@ -27,13 +27,14 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 #### Les mathématiques du Poker
 
+$C_{pot} = \dfrac{Risque}{Risque + Récompense}$
 
-
+&nbsp;
 #### Comprendre les dynamiques Préflop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODE3Njg3NSwxMTY0MTY2MjY5LC0yMD
-c4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQz
-MjAxXX0=
+eyJoaXN0b3J5IjpbLTE2ODIzMzE1NjUsMTE2NDE2NjI2OSwtMj
+A3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0
+MzIwMV19
 -->
