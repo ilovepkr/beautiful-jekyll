@@ -26,11 +26,14 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 ![](../img/parcours.svg)
 
 #### Les mathématiques du Poker
+
+
+
 #### Comprendre les dynamiques Préflop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NjcxODE5LDExNjQxNjYyNjksLTIwNz
-g5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC01NzY2NDMy
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTI3ODE3Njg3NSwxMTY0MTY2MjY5LC0yMD
+c4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQz
+MjAxXX0=
 -->
