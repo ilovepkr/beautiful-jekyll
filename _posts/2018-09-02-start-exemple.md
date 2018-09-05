@@ -27,6 +27,8 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 #### Les mathématiques du Poker
 
+###### La formule du "risk/reward"
+
 $C_{pot} = \dfrac{Risque}{Risque + Récompense}$
 
 &nbsp;
@@ -34,7 +36,7 @@ $C_{pot} = \dfrac{Risque}{Risque + Récompense}$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIzMzE1NjUsMTE2NDE2NjI2OSwtMj
-A3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0
-MzIwMV19
+eyJoaXN0b3J5IjpbLTE2MjI1NDMwMjYsLTE2ODIzMzE1NjUsMT
+E2NDE2NjI2OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0
+MDQyODcsLTU3NjY0MzIwMV19
 -->
