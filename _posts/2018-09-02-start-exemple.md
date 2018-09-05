@@ -36,9 +36,9 @@ $C_{risque} = \dfrac{Risque}{Risque + Récompense}$
 &nbsp;
 #### Comprendre les dynamiques Préflop
 
-
+Pour bien comprendre les ranges 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMT
-Y0MTY2MjY5LC0yMDc4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQw
-NDI4NywtNTc2NjQzMjAxXX0=
+eyJoaXN0b3J5IjpbLTM2Mzg2MTU0MCwxMjA5Nzc4OTY3LC0xNj
+gyMzMxNTY1LDExNjQxNjYyNjksLTIwNzg5NjYzMDAsODY2NjM5
+Mzg3LC0yMDk4NDA0Mjg3LC01NzY2NDMyMDFdfQ==
 -->
