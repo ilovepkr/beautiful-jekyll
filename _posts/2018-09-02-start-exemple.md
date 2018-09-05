@@ -31,14 +31,14 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 C'est le ratio entre ce qu'il y a à gagner et le coût du risque que l'on prend.
 
-$C_{pot} = \dfrac{Risque}{Risque + Récompense}$
+$C_{risque} = \dfrac{Risque}{Risque + Récompense}$
 
 &nbsp;
 #### Comprendre les dynamiques Préflop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkxOTg0NDcsLTE2ODIzMzE1NjUsMT
-E2NDE2NjI2OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0
-MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMT
+Y0MTY2MjY5LC0yMDc4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQw
+NDI4NywtNTc2NjQzMjAxXX0=
 -->
