@@ -47,7 +47,7 @@ La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre
 
 Voici les fréquences par joueur contre chaque positions :
 
-Position|% Def
+Position|Fréquence
 -|-:
 UTG|7,8
 MP|9,6
@@ -57,8 +57,8 @@ SB|33,3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5OTY3ODI0LDkwNzAyMjExMiwxMjA5Nz
-c4OTY3LDEyMDk3Nzg5NjcsLTE2ODIzMzE1NjUsMTE2NDE2NjI2
-OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLT
-U3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMTczNjk3NDczOCw5MDcwMjIxMTIsMTIwOT
+c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
+NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
+01NzY2NDMyMDFdfQ==
 -->
