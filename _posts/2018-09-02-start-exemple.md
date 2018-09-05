@@ -45,15 +45,18 @@ $\dfrac{3}{3 + 1,5} = 66,7$
 
 La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela représente 7,8% par joueur contre UTG.
 
+Voici les fréquences par joueur contre ch
+
 Position|%
 -|-:
 UTG|7,8
 MP|9,6
 CO|12,6
-BTN
+BTN|18,4
+SB|33,3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDg3Njc2LDkwNzAyMjExMiwxMjA5Nz
-c4OTY3LDEyMDk3Nzg5NjcsLTE2ODIzMzE1NjUsMTE2NDE2NjI2
-OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLT
-U3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMjA3MDAyMjUzOSw5MDcwMjIxMTIsMTIwOT
+c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
+NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
+01NzY2NDMyMDFdfQ==
 -->
