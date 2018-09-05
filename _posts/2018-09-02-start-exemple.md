@@ -19,7 +19,7 @@ Challenge 500€|500 €
 
 # La technique
 
-On peut représenter notre progression avec un diagramme. Chaque nouvelle étapes 
+On peut représenter notre progression avec un diagramme. Chaque nouvelle étapes fera l'objet d'un apprentissage particulier et d'un travail sur les tables. 
 
 ![](../img/parcours.svg)
 
@@ -27,6 +27,6 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjY4Njc2NSwtMjA3ODk2NjMwMCw4Nj
-Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMjcwMTcyODQxLC0yMDc4OTY2MzAwLDg2Nj
+YzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQzMjAxXX0=
 -->
