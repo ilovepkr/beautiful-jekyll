@@ -42,8 +42,10 @@ Quand un joueur ouvre une main c'est pour gagner de l'argent sur le long terme. 
 Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du temps les autres joueurs fold.
 
 $\dfrac{3}{3 + 1,5} = 66,7$
+
+La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela repré
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTUyNTYyNiw5MDcwMjIxMTIsMTIwOT
+eyJoaXN0b3J5IjpbLTkxNDYxODYwMyw5MDcwMjIxMTIsMTIwOT
 c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
 NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
 01NzY2NDMyMDFdfQ==
