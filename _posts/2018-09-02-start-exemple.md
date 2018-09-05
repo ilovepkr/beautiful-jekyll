@@ -15,7 +15,7 @@ Call
 end
 ```
 
-![](../img/2018-07-30-donk-turn.svg)
+![](../img/parcours.svg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDI3MTYxNiwtNTc2NjQzMjAxXX0=
+eyJoaXN0b3J5IjpbNjg5NTAyNDU3LC01NzY2NDMyMDFdfQ==
 -->
