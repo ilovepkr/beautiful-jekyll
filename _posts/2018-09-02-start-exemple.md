@@ -13,8 +13,10 @@ title: Exemple de mise en place
 
 ![](../img/parcours.svg)
 
+#### Comprendre les dynamiques Préflop
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1ODY1OTYxOCwtMjA3ODk2NjMwMCw4Nj
-Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbNTk2MjYzODcxLC0yMDc4OTY2MzAwLDg2Nj
+YzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQzMjAxXX0=
 -->
