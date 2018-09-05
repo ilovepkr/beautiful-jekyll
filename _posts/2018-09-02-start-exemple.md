@@ -17,7 +17,7 @@ Cash Game Online|3 000 €
 Challenge 100€|100 €
 Challenge 500€|500 €
 
-
+&nbsp;
 # La technique
 
 On peut représenter notre progression avec un diagramme. Chaque nouvelle étapes fera l'objet d'un apprentissage particulier et d'un travail sur les tables. 
@@ -28,6 +28,6 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTg5MjkxNSwtMjA3ODk2NjMwMCw4Nj
-Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbODQ5NjkyNjg3LC0yMDc4OTY2MzAwLDg2Nj
+YzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQzMjAxXX0=
 -->
