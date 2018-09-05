@@ -37,10 +37,12 @@ $C_{risque} = \dfrac{Risque}{Risque + Récompense}$
 #### Comprendre les dynamiques Préflop
 
 Pour bien comprendre les dynamiques, il faut bien comprendre pourquoi on décide de rentrer dans un coup ou pas.
-Quand un joueur ouvre une main, à 3bb, par exemple, c'est pour gagner de l'argent sur le long terme. Soit en volant les blindes, soit en étant payé par des mains moins bonne que la sienne.
+Quand un joueur ouvre une main c'est pour gagner de l'argent sur le long terme. Soit en volant les blindes, soit en étant payé par des mains moins bonne que la sienne.
+
+Si il ouvre, 3bb, UTG
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTI4OTQwLDkwNzAyMjExMiwxMjA5Nz
-c4OTY3LDEyMDk3Nzg5NjcsLTE2ODIzMzE1NjUsMTE2NDE2NjI2
-OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLT
-U3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbLTE2OTA2NDEzNzMsOTA3MDIyMTEyLDEyMD
+k3Nzg5NjcsMTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMTY0MTY2
+MjY5LC0yMDc4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4Ny
+wtNTc2NjQzMjAxXX0=
 -->
