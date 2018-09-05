@@ -43,10 +43,10 @@ Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du tem
 
 $\dfrac{3}{3 + 1,5} = 66,7$
 
-La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela repré
+La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela représente 7,8% par joueur contre UTG.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDYxODYwMyw5MDcwMjIxMTIsMTIwOT
-c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
-NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
-01NzY2NDMyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg2OTE1MTgsOTA3MDIyMTEyLDEyMD
+k3Nzg5NjcsMTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMTY0MTY2
+MjY5LC0yMDc4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4Ny
+wtNTc2NjQzMjAxXX0=
 -->
