@@ -39,10 +39,10 @@ $C_{risque} = \dfrac{Risque}{Risque + Récompense}$
 Pour bien comprendre les dynamiques, il faut bien comprendre pourquoi on décide de rentrer dans un coup ou pas.
 Quand un joueur ouvre une main c'est pour gagner de l'argent sur le long terme. Soit en volant les blindes, soit en étant payé par des mains moins bonne que la sienne.
 
-Si il ouvre, 3bb, UTG
+Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du temps les autres joueurs fold.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2NDEzNzMsOTA3MDIyMTEyLDEyMD
-k3Nzg5NjcsMTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMTY0MTY2
-MjY5LC0yMDc4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4Ny
-wtNTc2NjQzMjAxXX0=
+eyJoaXN0b3J5IjpbMjY0NTc2MDYxLDkwNzAyMjExMiwxMjA5Nz
+c4OTY3LDEyMDk3Nzg5NjcsLTE2ODIzMzE1NjUsMTE2NDE2NjI2
+OSwtMjA3ODk2NjMwMCw4NjY2MzkzODcsLTIwOTg0MDQyODcsLT
+U3NjY0MzIwMV19
 -->
