@@ -42,10 +42,11 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 Si on fait quelques statistiques sur les actions par position on obtient ceci :
+
 ![](../img/theory/dynamique.png)
 
 Cela met en évidence les 3 positions ou les dynamiques préflop sont les plus importantes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQ5NTA4Niw0NTAwNjczODEsMjEyNj
-M1OTE3Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMTgwNDMxMDAsNDUwMDY3MzgxLDIxMj
+YzNTkxNzIsNzMwOTk4MTE2XX0=
 -->
