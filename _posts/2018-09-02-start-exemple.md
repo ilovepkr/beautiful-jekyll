@@ -55,10 +55,10 @@ CO|12,6
 BTN|18,4
 SB|33,3
 
-
+Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il nous faudra défendre. Ce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjk3NDczOCw5MDcwMjIxMTIsMTIwOT
-c3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1LDExNjQxNjYy
-NjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMDk4NDA0Mjg3LC
-01NzY2NDMyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTc4NjAwNDgsMTczNjk3NDczOCw5MD
+cwMjIxMTIsMTIwOTc3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMx
+NTY1LDExNjQxNjYyNjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC
+0yMDk4NDA0Mjg3LC01NzY2NDMyMDFdfQ==
 -->
