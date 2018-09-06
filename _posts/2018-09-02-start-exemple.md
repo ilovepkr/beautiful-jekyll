@@ -10,6 +10,7 @@ title: Exemple de mise en place
 #### Le BRM ou BankRoll Management
 
 Voici un exemple de gestion de bankroll et de répartion de son capital. Avec un capital de 3600€ nous allons jouer en NL25 et nous allons réserver 600€ pour divers challenge de bankroll.
+{: .text-justify}
 
 Type de jeu|Bankroll
 -|-:
@@ -63,8 +64,8 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NTcyMzY1LDU4MTA4NjUzLDE3MzY5Nz
-Q3MzgsOTA3MDIyMTEyLDEyMDk3Nzg5NjcsMTIwOTc3ODk2Nywt
-MTY4MjMzMTU2NSwxMTY0MTY2MjY5LC0yMDc4OTY2MzAwLDg2Nj
-YzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQzMjAxXX0=
+eyJoaXN0b3J5IjpbLTExNzM5Mzc5NzcsNTgxMDg2NTMsMTczNj
+k3NDczOCw5MDcwMjIxMTIsMTIwOTc3ODk2NywxMjA5Nzc4OTY3
+LC0xNjgyMzMxNTY1LDExNjQxNjYyNjksLTIwNzg5NjYzMDAsOD
+Y2NjM5Mzg3LC0yMDk4NDA0Mjg3LC01NzY2NDMyMDFdfQ==
 -->
