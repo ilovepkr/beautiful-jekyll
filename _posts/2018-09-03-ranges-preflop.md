@@ -43,7 +43,9 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 
 Si on fait quelques statistiques sur les actions par position on obtient ceci :
 ![](../img/theory/dynamique.svg)
+
+Cela met en évidence les 3 positions ou la dynam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjI1OTcxOSw0NTAwNjczODEsMjEyNj
+eyJoaXN0b3J5IjpbMjEzNTQ3MDA2MSw0NTAwNjczODEsMjEyNj
 M1OTE3Miw3MzA5OTgxMTZdfQ==
 -->
