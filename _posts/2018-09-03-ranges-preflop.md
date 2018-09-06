@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /img/technique.png
+image: /img/theory.png
 title: Les ranges préflop
 
 ---
@@ -42,5 +42,6 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjM1OTE3Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDUwMDY3MzgxLDIxMjYzNTkxNzIsNzMwOT
+k4MTE2XX0=
 -->
