@@ -44,6 +44,7 @@ Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du tem
 $\dfrac{3}{3 + 1,5} = 66,7$
 
 La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela représente 7,8% par joueur contre UTG.
+{: .text-justify}
 
 Voici les fréquences par joueur contre chaque positions :
 
@@ -59,7 +60,7 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjc5NTE0Myw1ODEwODY1MywxNzM2OT
+eyJoaXN0b3J5IjpbLTg3MDA1OTY3NSw1ODEwODY1MywxNzM2OT
 c0NzM4LDkwNzAyMjExMiwxMjA5Nzc4OTY3LDEyMDk3Nzg5Njcs
 LTE2ODIzMzE1NjUsMTE2NDE2NjI2OSwtMjA3ODk2NjMwMCw4Nj
 Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
