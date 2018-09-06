@@ -27,45 +27,10 @@ On peut représenter notre progression avec un diagramme. Chaque nouvelle étape
 
 ![](../img/parcours.svg)
 
-#### Les mathématiques du Poker
-
-###### La formule du "risk/reward"
-
-C'est le ratio entre ce qu'il y a à gagner et le coût du risque que l'on prend.
-
-$C_{risque} = \dfrac{Risque}{Risque + Récompense}$
-
-&nbsp;
-#### Comprendre les dynamiques Préflop
-
-Pour bien comprendre les dynamiques, il faut bien comprendre pourquoi on décide de rentrer dans un coup ou pas.
-Quand un joueur ouvre une main c'est pour gagner de l'argent sur le long terme. Soit en volant les blindes, soit en étant payé par des mains moins bonne que la sienne.
-{: .text-justify}
-
-Si il ouvre, à 3bb, UTG, il gagnera de l'argent automatiquement si 66,7% du temps les autres joueurs fold.
-{: .text-justify}
-
-$\dfrac{3}{3 + 1,5} = 66,7$
-
-La table (oui car nous ne sommes pas seul contre le joueur) devra donc défendre 33,3% du temps pour l'éviter de faire un profit immédiat. Cela représente 7,8% par joueur contre UTG.
-{: .text-justify}
-
-Voici les fréquences par joueur contre chaque positions :
-
-Position|Fréquence
--|-:
-UTG|7,8
-MP|9,6
-CO|12,6
-BTN|18,4
-SB|33,3
-
-Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il nous faudra défendre. Cela implique donc que plus un joueur ouvrira en position tardive plus il fera face a une range large et donc plus il pourra élargir sa propre range. 
-{: .text-justify}
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5Mzc5NzcsNTgxMDg2NTMsMTczNj
-k3NDczOCw5MDcwMjIxMTIsMTIwOTc3ODk2NywxMjA5Nzc4OTY3
-LC0xNjgyMzMxNTY1LDExNjQxNjYyNjksLTIwNzg5NjYzMDAsOD
-Y2NjM5Mzg3LC0yMDk4NDA0Mjg3LC01NzY2NDMyMDFdfQ==
+eyJoaXN0b3J5IjpbMzI5NDMxMzIyLC0xMTczOTM3OTc3LDU4MT
+A4NjUzLDE3MzY5NzQ3MzgsOTA3MDIyMTEyLDEyMDk3Nzg5Njcs
+MTIwOTc3ODk2NywtMTY4MjMzMTU2NSwxMTY0MTY2MjY5LC0yMD
+c4OTY2MzAwLDg2NjYzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQz
+MjAxXX0=
 -->
