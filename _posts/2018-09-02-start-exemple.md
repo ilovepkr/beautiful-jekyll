@@ -22,6 +22,7 @@ Challenge 500€|500 €
 # La technique
 
 On peut représenter notre progression avec un diagramme. Chaque nouvelle étapes fera l'objet d'un apprentissage particulier et d'un travail sur les tables. 
+{: .text-justify}
 
 ![](../img/parcours.svg)
 
@@ -62,8 +63,8 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDkyOTQ0MSw1ODEwODY1MywxNzM2OT
-c0NzM4LDkwNzAyMjExMiwxMjA5Nzc4OTY3LDEyMDk3Nzg5Njcs
-LTE2ODIzMzE1NjUsMTE2NDE2NjI2OSwtMjA3ODk2NjMwMCw4Nj
-Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
+eyJoaXN0b3J5IjpbMjY4NTcyMzY1LDU4MTA4NjUzLDE3MzY5Nz
+Q3MzgsOTA3MDIyMTEyLDEyMDk3Nzg5NjcsMTIwOTc3ODk2Nywt
+MTY4MjMzMTU2NSwxMTY0MTY2MjY5LC0yMDc4OTY2MzAwLDg2Nj
+YzOTM4NywtMjA5ODQwNDI4NywtNTc2NjQzMjAxXX0=
 -->
