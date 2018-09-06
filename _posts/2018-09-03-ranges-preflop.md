@@ -49,9 +49,11 @@ Cela met en évidence les 3 positions ou les dynamiques préflop sont les plus i
 
 #### Les ranges
 
+TODO
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg5MjA1NiwxMjIyMzUwMjI0LC0xMD
+eyJoaXN0b3J5IjpbLTk5MjUwMjE0NiwxMjIyMzUwMjI0LC0xMD
 E4MDQzMTAwLDQ1MDA2NzM4MSwyMTI2MzU5MTcyLDczMDk5ODEx
 Nl19
 -->
