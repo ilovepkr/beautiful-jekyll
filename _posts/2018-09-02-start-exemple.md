@@ -55,10 +55,11 @@ CO|12,6
 BTN|18,4
 SB|33,3
 
-Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il nous faudra défendre. Cela implique donc que plus un joueur ouvrira en position tardive plus il fera face a une range large et donc plus il pourra élargir sa propre range. 
+Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il nous faudra défendre. Cela implique donc que plus un joueur ouvrira en position tardive plus il fera face a une range large et donc plus il pourra élargir sa propre range. {: .text-justify}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMDg2NTMsMTczNjk3NDczOCw5MDcwMj
-IxMTIsMTIwOTc3ODk2NywxMjA5Nzc4OTY3LC0xNjgyMzMxNTY1
-LDExNjQxNjYyNjksLTIwNzg5NjYzMDAsODY2NjM5Mzg3LC0yMD
-k4NDA0Mjg3LC01NzY2NDMyMDFdfQ==
+eyJoaXN0b3J5IjpbMTg1MTcwNDYyOSw1ODEwODY1MywxNzM2OT
+c0NzM4LDkwNzAyMjExMiwxMjA5Nzc4OTY3LDEyMDk3Nzg5Njcs
+LTE2ODIzMzE1NjUsMTE2NDE2NjI2OSwtMjA3ODk2NjMwMCw4Nj
+Y2MzkzODcsLTIwOTg0MDQyODcsLTU3NjY0MzIwMV19
 -->
