@@ -5,8 +5,6 @@ title: Les ranges préflop
 
 ---
 
-# Les ranges préflop
-
 #### Les mathématiques du Poker
 
 ###### La formule du "risk/reward"
@@ -44,5 +42,5 @@ Nous pouvons remarquer que plus un joueur va ouvrir en position tardive plus il 
 {: .text-justify}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDE3MDA5OTksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjEyNjM1OTE3Miw3MzA5OTgxMTZdfQ==
 -->
