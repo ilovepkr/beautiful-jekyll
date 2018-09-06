@@ -46,7 +46,12 @@ Si on fait quelques statistiques sur les actions par position on obtient ceci :
 ![](../img/theory/dynamique.png)
 
 Cela met en évidence les 3 positions ou les dynamiques préflop sont les plus importantes, BTN, SB et BB.
+
+#### Les ranges
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjM1MDIyNCwtMTAxODA0MzEwMCw0NT
-AwNjczODEsMjEyNjM1OTE3Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTg5MjA1NiwxMjIyMzUwMjI0LC0xMD
+E4MDQzMTAwLDQ1MDA2NzM4MSwyMTI2MzU5MTcyLDczMDk5ODEx
+Nl19
 -->
