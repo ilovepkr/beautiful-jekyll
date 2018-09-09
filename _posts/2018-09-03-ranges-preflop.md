@@ -49,11 +49,11 @@ Cela met en évidence les 3 positions ou les dynamiques préflop sont les plus i
 
 #### Les ranges
 
-Le principe va être de reprendre des ranges d'un joueur gagnant et de les modifier en fonction de certains paramètres comme la limite, le site, etc. C'est une approche plus facile car construire des ranges à partir d'une feuille blanche sera
+Le principe va être de reprendre des ranges d'un joueur gagnant et de les modifier en fonction de certains paramètres comme la limite, le site, etc. C'est une approche plus facile car construire des ranges à partir d'une feuille blanche serait très difficile.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg0NDM0MTcsLTk5MjUwMjE0NiwxMj
-IyMzUwMjI0LC0xMDE4MDQzMTAwLDQ1MDA2NzM4MSwyMTI2MzU5
-MTcyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTQxMjcyODI5NCwtOTkyNTAyMTQ2LDEyMj
+IzNTAyMjQsLTEwMTgwNDMxMDAsNDUwMDY3MzgxLDIxMjYzNTkx
+NzIsNzMwOTk4MTE2XX0=
 -->
