@@ -49,11 +49,11 @@ Cela met en évidence les 3 positions ou les dynamiques préflop sont les plus i
 
 #### Les ranges
 
-TODO
+Le principe va être de reprendre des ranges d'un joueur gagnant et de les modifier en fonction de certain 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjUwMjE0NiwxMjIyMzUwMjI0LC0xMD
-E4MDQzMTAwLDQ1MDA2NzM4MSwyMTI2MzU5MTcyLDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTExODUzNzI3MTYsLTk5MjUwMjE0NiwxMj
+IyMzUwMjI0LC0xMDE4MDQzMTAwLDQ1MDA2NzM4MSwyMTI2MzU5
+MTcyLDczMDk5ODExNl19
 -->
