@@ -1,7 +1,12 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Written with [StackEdit](https://stackedit.io/).---
+layout: post
+image: /img/theory.png
+title: Les ranges préflop
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTMwNTE2Nzc0Miw3MzA5OTgxMTZdfQ==
 -->
